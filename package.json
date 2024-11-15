@@ -1,0 +1,12 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.0",
+  "description": "Basic node server that serves files.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Myburgh",
+  "license": "ISC"
+}
